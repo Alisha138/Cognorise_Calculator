@@ -20,5 +20,14 @@ To run this project locally, follow these steps:
    ```bash
    cd calculator
 3. Open the HTML file: Open index.html in your web browser.
- 
+# Usage
+- Enter the Numbers: Click on the number buttons to input the operands.
+- Select an Operator: Choose an operator (+, -, *, or /).
+- Get the Result: Click the = button to see the result.
+- Clear the Result: Use the C button to reset the Result and start a new calculation
+# Future Enhancements
+- Add advanced functions like square root, percentage, and power.
+- Include a history feature to track previous calculations.
+# Contributing
+Contributions are welcome! If you have any ideas or suggestions, feel free to fork the repository and create a pull request.
  
