@@ -26,6 +26,7 @@ To run this project locally, follow these steps:
 - Get the Result: Click the = button to see the result.
 - Clear the Result: Use the C button to reset the Result and start a new calculation
 # Screenshots
+![cal1](https://github.com/user-attachments/assets/a281db8e-e4e5-45f0-ad48-3e1d461f4f1c)
 # Future Enhancements
 - Add advanced functions like square root, percentage, and power.
 - Include a history feature to track previous calculations.
