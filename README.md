@@ -25,6 +25,7 @@ To run this project locally, follow these steps:
 - Select an Operator: Choose an operator (+, -, *, or /).
 - Get the Result: Click the = button to see the result.
 - Clear the Result: Use the C button to reset the Result and start a new calculation
+# Screenshots
 # Future Enhancements
 - Add advanced functions like square root, percentage, and power.
 - Include a history feature to track previous calculations.
