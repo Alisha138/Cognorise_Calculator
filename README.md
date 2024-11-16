@@ -19,5 +19,6 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd calculator
+3. Open the HTML file: Open index.html in your web browser.
  
  
