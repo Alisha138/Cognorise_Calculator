@@ -14,10 +14,12 @@ This project is an interactive and responsive calculator designed to perform bas
 # Installation
 To run this project locally, follow these steps:
 1. Clone the repository:
+```bash
 git clone https://github.com/Alisha138/Cognorise_Calculator.git
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+```bash
 cd Calculator
-3. Open the index.html file in your browser to use the calculator.
+4. Open the index.html file in your browser to use the calculator.
 # Usage
 - Enter the Numbers: Click on the number buttons to input the operands.
 - Select an Operator: Choose an operator (+, -, *, or /).
