@@ -16,10 +16,10 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/Alisha138/Cognorise_Calculator.git
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd Calculator
-4. Open the index.html file in your browser to use the calculator.
+3. Open the index.html file in your browser to use the calculator.
 # Usage
 - Enter the Numbers: Click on the number buttons to input the operands.
 - Select an Operator: Choose an operator (+, -, *, or /).
